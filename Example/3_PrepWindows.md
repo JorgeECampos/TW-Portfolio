@@ -60,7 +60,8 @@ You download and install Docker Desktop for Windows here: [https://docs.docker.c
 
 Open Docker Desktop and go to ⚙️ Settings > Resources, you will see the following screen:
 
-![](https://t2403958.p.clickup-attachments.com/t2403958/3177a1a9-316c-4185-9f01-77b11b3c7f4c/windows_06.png)
+![](./images/windoc.png)
+
 
 Make sure you check "Enable Integration with my default WSL distro & any additional where you might want to use Docker.
 

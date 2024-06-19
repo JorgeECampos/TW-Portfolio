@@ -24,7 +24,7 @@ Follow [this](https://docs.github.com/en/github/authenticating-to-github/connect
 
 ### Import SSH Keys to GitHub
 
-......
+-----
 
   
 
@@ -38,7 +38,7 @@ To begin, fork the [incfile/atomic](https://github.com/incfile/atomic) repositor
 
   
 
-![](https://t2403958.p.clickup-attachments.com/t2403958/04c0fa07-ff62-4d73-8143-5ba0efe96f67/Fork.png)
+![](./images/GitFork.png)
 
 ###   
 

@@ -22,7 +22,7 @@ When the pdf is not showing by an issue with the atomic-resources file:
     1. Using the CMD
         1. With Sail as an alias ➝ `Sail bash`
     2. Using the Docker interface
-        1. ![](https://t2403958.p.clickup-attachments.com/t2403958/132d513d-b083-4ed3-9a40-a9bb263b97cb/image.png)
+        1. ![](./images/docissue.png)
 2. Use ➝ `Composer Install`
 
   
@@ -37,7 +37,7 @@ When navigating, this error appears:
 
   
 
-![](https://t2403958.p.clickup-attachments.com/t2403958/f4eb8e59-2151-42e4-b95d-d93891f469c9/image.png)
+!![](./images/error.png)
 
 **Solution**
 

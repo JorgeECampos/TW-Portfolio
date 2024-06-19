@@ -12,13 +12,6 @@ We will use Laravel Sail in our development environment; below are the steps to 
 *   [Docker Desktop](https://docs.docker.com/engine/install/)
 *   [PHP 7.4](https://www.php.net/downloads.php) or higher & the latest version of [Composer](https://getcomposer.org/download/)
 *   [CircleCi](https://app.clickup.com/2403958/v/dc/29bkp-891/29bkp-16365?block=block-99b317e3-1c57-43dc-b42e-488d64e8b11f)
-
-  
-
-Additional instructions on Private ([https://app.clickup.com/2403958/docs/29bkp-891/29bkp-798](https://app.clickup.com/2403958/docs/29bkp-891/29bkp-798)).
-
-Additional instructions on Private ([https://app.clickup.com/2403958/docs/29bkp-891/29bkp-53292](https://app.clickup.com/2403958/docs/29bkp-891/29bkp-53292)).
-
   
 
 ## GIT

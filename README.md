@@ -9,4 +9,3 @@ Expertise
 * Leadership and Self-Improvement: I strive to integrate leadership development and self-improvement strategies into my work and personal growth.
 * Database Design and Management: Skilled in creating and managing databases using MySQL Workbench, with a strong emphasis on relational database design, encapsulation, and data integrity.
 * Content Management Systems: Experienced in documenting and implementing CMS solutions like Husbpot.
-* Innovation and Monetization: Exploring the intersection of economic models and innovation, drawing inspiration from successful case studies such as Post-it by 3M and Veja.

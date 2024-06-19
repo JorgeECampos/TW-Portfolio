@@ -329,7 +329,7 @@ You should make sure that your Checkout SSH Keys are correct.
 3. In the left sidebar, select "SSH Keys".
 4. Under "User Keys", click on "Add SSH Key".
 
-Review that your CircleCI configuration is correct Private ([https://app.clickup.com/2403958/docs/29bkp-891/29bkp-16365](https://app.clickup.com/2403958/docs/29bkp-891/29bkp-16365)).
+Review that your CircleCI configuration is correct Private ([Circle CI](example.com)).
 
   
 

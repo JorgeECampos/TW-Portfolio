@@ -64,8 +64,16 @@ Open Docker Desktop and go to ⚙️ Settings > Resources, you will see the foll
 
 
 Make sure you check "Enable Integration with my default WSL distro & any additional where you might want to use Docker.
+  
 
+## Additional Steps
+
+You may now head back to the Private ([https://app.clickup.com/2403958/docs/29bkp-891/29bkp-770](https://app.clickup.com/2403958/docs/29bkp-891/29bkp-770)) page to get the `Company/Code` repo running on Laravel Sail.
+
+  
+=======
     
+>>>>>>> c82342700e3166916972e5eb266a33dfb67fe748
 
 ## Notes
 

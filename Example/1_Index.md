@@ -1,6 +1,6 @@
 # Developers Wiki
 
-# **Welcome to the Bizee wiki!**
+# **Welcome to the Company wiki!**
 
 Please browse through this document that serves as a guide for the new members of our project; if you have any questions or suggestions, do not hesitate to give us a shout, and have fun!
 

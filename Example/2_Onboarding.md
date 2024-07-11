@@ -2,7 +2,7 @@
 
 # Overview
 
-We will use Laravel Sail in our development environment; below are the steps to get the `incfile/atomic` repo up and running.
+We will use Laravel Sail in our development environment; below are the steps to get the `Company/Code` repo up and running.
 
   
 
@@ -28,13 +28,13 @@ Follow [this](https://docs.github.com/en/github/authenticating-to-github/connect
 
   
 
-### Fork the `incfile/atomic` Repo
+### Fork the `Company/Code` Repo
 
 We use the [Git Forking Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) where developers will work within their fork. When tasks are completed, pull requests should be issued back to the main repo.
 
   
 
-To begin, fork the [incfile/atomic](https://github.com/incfile/atomic) repository to your personal GitHub account.
+To begin, fork the [Company/Code](https://github.com/) repository to your personal GitHub account.
 
   
 
@@ -44,11 +44,11 @@ To begin, fork the [incfile/atomic](https://github.com/incfile/atomic) repositor
 
 ### Clone Your Forked Repo
 
-To get your fork out of the `incfile/atomic` repo onto your local machine, you can run the following commands:
+To get your fork out of the `Company/Code` repo onto your local machine, you can run the following commands:
 
 ```bash
 cd [YOUR_PATH]
-git clone git@github.com:[USERNAME]/atomic
+git clone git@github.com:[USERNAME]/Code
 cd atomic/
 ```
 
@@ -56,16 +56,16 @@ cd atomic/
 
 ### Add Upstream Repo
 
-Adding the upstream repository to your git remotes lets you easily sync changes from `incfile/atomic` into your fork.
+Adding the upstream repository to your git remotes lets you easily sync changes from `Company/Code` into your fork.
 
 ```bash
-git remote add upstream git@github.com:incfile/atomic
+git remote add upstream git@github.com:Company/Code
 git fetch -a upstream
 ```
 
   
 
-Either the first time or whenever you want to merge in the changes from the `incfile/master` into your feature branch/local, you can run the following command: -a upstream
+Either the first time or whenever you want to merge in the changes from the `Company/Develop` into your feature branch/local, you can run the following command: -a upstream
 
 ```bash
 git pull upstream master
@@ -122,18 +122,7 @@ Be patient; this can take some time the first time you do this
 To access the project routes, we must copy the following host names into our hosts' file (Windows: "C:\\Windows\\System32\\drivers\\etc\\hosts", Mac OS: "/private/etc/hosts")
 
 ```plain
-127.0.0.1 api.cool
-127.0.0.1 atomic.cool
-127.0.0.1 db.cool
-127.0.0.1 incfile.cool
-127.0.0.1 index.cool
-127.0.0.1 mailhog.cool
-127.0.0.1 maxfilings.cool
-127.0.0.1 phpma.cool
-127.0.0.1 pro.cool
-127.0.0.1 quickcorps.cool
-127.0.0.1 usara.cool
-127.0.0.1 whitelabel.cool
+127.0.0.1 example.cool
 ```
 
 You have to add them Manually.

@@ -6,7 +6,7 @@ You can't use Homestead if Sail is installed on your local machine.
 
 ## Installing WSL2
 
-You may follow these instructions to get started with WSL in Windows 10: [https://docs.microsoft.com/en-us/windows/wsl/install-win10](https://docs.microsoft.com/en-us/windows/wsl/install-win10){:target="_blank"}
+You may follow these instructions to get started with WSL in Windows 10: [https://docs.microsoft.com/en-us/windows/wsl/install-win10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
   
 
@@ -52,7 +52,7 @@ sudo mv composer.phar /usr/local/bin/composer
 
 ## Installing Docker
 
-You download and install Docker Desktop for Windows here: [https://docs.docker.com/docker-for-windows/install/](https://docs.docker.com/docker-for-windows/install/){:target="_blank"}
+You download and install Docker Desktop for Windows here: [https://docs.docker.com/docker-for-windows/install/](https://docs.docker.com/docker-for-windows/install/)
 
   
 
@@ -68,8 +68,8 @@ Make sure you check "Enable Integration with my default WSL distro & any additio
 
 ## Notes
 
-*   If you are using VS Code it is recommended to clone your repos directly in your WSL distro: [https://code.visualstudio.com/docs/remote/wsl](https://code.visualstudio.com/docs/remote/wsl){:target="_blank"}
-*   If you have problems with ssh, try creating new keys using `ed25519` encryption method: [https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent){:target="_blank"}
+*   If you are using VS Code it is recommended to clone your repos directly in your WSL distro: [https://code.visualstudio.com/docs/remote/wsl](https://code.visualstudio.com/docs/remote/wsl)
+*   If you have problems with ssh, try creating new keys using `ed25519` encryption method: [https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
   
 
@@ -94,4 +94,4 @@ chmod 775 -R /tmp/
 
 * * *
 
-🏠 [Home](https://github.com/JorgeECampos/TW-Portfolio/blob/main/Example/1_Index.md){:target="_blank"}
+🏠 [Home](https://github.com/JorgeECampos/TW-Portfolio/blob/main/Example/1_Index.md)

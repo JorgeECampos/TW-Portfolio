@@ -6,7 +6,7 @@ You can't use Homestead if Sail is installed on your local machine.
 
 ## Installing WSL2
 
-You may follow these instructions to get started with WSL in Windows 10: [https://docs.microsoft.com/en-us/windows/wsl/install-win10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+You may follow these instructions to get started with WSL in Windows 10: [https://docs.microsoft.com/en-us/windows/wsl/install-win10](https://docs.microsoft.com/en-us/windows/wsl/install-win10){:target="_blank"}
 
   
 
@@ -52,7 +52,7 @@ sudo mv composer.phar /usr/local/bin/composer
 
 ## Installing Docker
 
-You download and install Docker Desktop for Windows here: [https://docs.docker.com/docker-for-windows/install/](https://docs.docker.com/docker-for-windows/install/)
+You download and install Docker Desktop for Windows here: [https://docs.docker.com/docker-for-windows/install/](https://docs.docker.com/docker-for-windows/install/){:target="_blank"}
 
   
 
@@ -66,19 +66,10 @@ Open Docker Desktop and go to ⚙️ Settings > Resources, you will see the foll
 Make sure you check "Enable Integration with my default WSL distro & any additional where you might want to use Docker.
   
 
-## Additional Steps
-
-You may now head back to the Private ([https://app.clickup.com/2403958/docs/29bkp-891/29bkp-770](https://app.clickup.com/2403958/docs/29bkp-891/29bkp-770)) page to get the `Company/Code` repo running on Laravel Sail.
-
-  
-=======
-    
->>>>>>> c82342700e3166916972e5eb266a33dfb67fe748
-
 ## Notes
 
-*   If you are using VS Code it is recommended to clone your repos directly in your WSL distro: [https://code.visualstudio.com/docs/remote/wsl](https://code.visualstudio.com/docs/remote/wsl)
-*   If you have problems with ssh, try creating new keys using `ed25519` encryption method: [https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+*   If you are using VS Code it is recommended to clone your repos directly in your WSL distro: [https://code.visualstudio.com/docs/remote/wsl](https://code.visualstudio.com/docs/remote/wsl){:target="_blank"}
+*   If you have problems with ssh, try creating new keys using `ed25519` encryption method: [https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent){:target="_blank"}
 
   
 
@@ -103,4 +94,4 @@ chmod 775 -R /tmp/
 
 * * *
 
-🏠 [Home](https://example.com/)
+🏠 [Home](https://github.com/JorgeECampos/TW-Portfolio/blob/main/Example/1_Index.md){:target="_blank"}

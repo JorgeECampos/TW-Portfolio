@@ -8,20 +8,17 @@ We will use Laravel Sail in our development environment; below are the steps to 
 
 ## Prerequisites
 
-<ul>
-    <li><a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git" target="_blank">Git</a></li>
-    <li><a href="https://docs.docker.com/engine/install/" target="_blank">Docker Desktop</a></li>
-    <li><a href="https://www.php.net/downloads.php" target="_blank">PHP 7.4</a> or higher & the latest version of <a href="https://getcomposer.org/download/" target="_blank">Composer</a></li>
-    <li><a href="https://app.clickup.com/2403958/v/dc/29bkp-891/29bkp-16365?block=block-99b317e3-1c57-43dc-b42e-488d64e8b11f" target="_blank">CircleCi</a></li>
-</ul>
-
+*   [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+*   [Docker Desktop](https://docs.docker.com/engine/install/)
+*   [PHP 7.4](https://www.php.net/downloads.php) or higher & the latest version of [Composer](https://getcomposer.org/download/)
+*   [CircleCi](https://app.clickup.com/2403958/v/dc/29bkp-891/29bkp-16365?block=block-99b317e3-1c57-43dc-b42e-488d64e8b11f)
   
 
 ## GIT
 
 ### Create SSH Keys
 
-Follow [this](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent){:target="_blank"} guide on creating SSH keys and importing them into your GitHub account.
+Follow [this](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) guide on creating SSH keys and importing them into your GitHub account.
 
   
 
@@ -33,11 +30,11 @@ Follow [this](https://docs.github.com/en/github/authenticating-to-github/connect
 
 ### Fork the `Company/Code` Repo
 
-We use the [Git Forking Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow){:target="_blank"} where developers will work within their fork. When tasks are completed, pull requests should be issued back to the main repo.
+We use the [Git Forking Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) where developers will work within their fork. When tasks are completed, pull requests should be issued back to the main repo.
 
   
 
-To begin, fork the [Company/Code](https://github.com/){:target="_blank"} repository to your personal GitHub account.
+To begin, fork the [Company/Code](https://github.com/) repository to your personal GitHub account.
 
   
 
@@ -160,7 +157,7 @@ If you initialized sail using the `sail up` command you may also stop the contai
 
 ## Additional Commands
 
-You may get more context in the official documentation for Laravel Sail: [https://laravel.com/docs/8.x/sail](https://laravel.com/docs/8.x/sail){:target="_blank"}
+You may get more context in the official documentation for Laravel Sail: [https://laravel.com/docs/8.x/sail](https://laravel.com/docs/8.x/sail)
 
   
 

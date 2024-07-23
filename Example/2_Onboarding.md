@@ -8,10 +8,11 @@ We will use Laravel Sail in our development environment; below are the steps to 
 
 ## Prerequisites
 
-*   [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git){:target="_blank"}
-*   [Docker Desktop](https://docs.docker.com/engine/install/)
-*   [PHP 7.4](https://www.php.net/downloads.php) or higher & the latest version of [Composer](https://getcomposer.org/download/){:target="_blank"}
-*   [CircleCi](https://app.clickup.com/2403958/v/dc/29bkp-891/29bkp-16365?block=block-99b317e3-1c57-43dc-b42e-488d64e8b11f){:target="_blank"}
+* <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git" target="_blank">Git</a>
+* <a href="https://docs.docker.com/engine/install/" target="_blank">Docker Desktop</a>
+* <a href="https://www.php.net/downloads.php" target="_blank">PHP 7.4</a> or higher & the latest version of <a href="https://getcomposer.org/download/" target="_blank">Composer</a>
+* <a href="https://app.clickup.com/2403958/v/dc/29bkp-891/29bkp-16365?block=block-99b317e3-1c57-43dc-b42e-488d64e8b11f" target="_blank">CircleCi</a>
+
   
 
 ## GIT
@@ -161,10 +162,10 @@ You may get more context in the official documentation for Laravel Sail: [https:
 
   
 
-🏠 [Home](https://github.com/JorgeECampos/TW-Portfolio/blob/main/Example/1_Index.md){:target="_blank"}
-  
 
 ##TL;DR
+-----
+
 ![](./images/test.png)
 
   
@@ -173,4 +174,4 @@ You may get more context in the official documentation for Laravel Sail: [https:
 
 * * *
 
-🏠 [Home](https://example.com/)
+<a href="https://github.com/JorgeECampos/TW-Portfolio/blob/main/Example/1_Index.md" target="_blank">🏠 Home</a>

@@ -8,10 +8,13 @@ We will use Laravel Sail in our development environment; below are the steps to 
 
 ## Prerequisites
 
-* <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git" target="_blank">Git</a>
-* <a href="https://docs.docker.com/engine/install/" target="_blank">Docker Desktop</a>
-* <a href="https://www.php.net/downloads.php" target="_blank">PHP 7.4</a> or higher & the latest version of <a href="https://getcomposer.org/download/" target="_blank">Composer</a>
-* <a href="https://app.clickup.com/2403958/v/dc/29bkp-891/29bkp-16365?block=block-99b317e3-1c57-43dc-b42e-488d64e8b11f" target="_blank">CircleCi</a>
+<ul>
+    <li><a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git" target="_blank">Git</a></li>
+    <li><a href="https://docs.docker.com/engine/install/" target="_blank">Docker Desktop</a></li>
+    <li><a href="https://www.php.net/downloads.php" target="_blank">PHP 7.4</a> or higher & the latest version of <a href="https://getcomposer.org/download/" target="_blank">Composer</a></li>
+    <li><a href="https://app.clickup.com/2403958/v/dc/29bkp-891/29bkp-16365?block=block-99b317e3-1c57-43dc-b42e-488d64e8b11f" target="_blank">CircleCi</a></li>
+</ul>
+
   
 
 ## GIT

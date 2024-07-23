@@ -1,0 +1,72 @@
+@startuml
+!define RECTANGLE rect
+skin rose
+title Company/Code Repo Setup Process
+
+start
+:Create SSH Keys;
+:Import SSH Keys to GitHub;
+
+:Fork the Company/Code Repo;
+:Clone Your Forked Repo;
+note right
+cd [YOUR_PATH]
+git clone git@github.com:[USERNAME]/Code
+cd Code/
+end note
+
+:Add Upstream Repo;
+note right
+git remote add upstream git@github.com:Company/Code
+git fetch upstream
+git pull upstream master
+end note
+
+:Install Laravel Sail;
+note right
+composer global require laravel/sail
+sh sail/init.sh
+end note
+
+:Optional: Add Sail Alias;
+note right
+nano ~/.zshrc  // ZSH
+nano ~/.bashrc  // Ubuntu Bash
+alias sail='[ -f sail ] && sh sail || sh vendor/bin/sail'
+end note
+
+:Copy and Configure .env;
+note right
+cp .env.example .env
+Modify variables as needed
+end note
+
+:Bring Up Docker Containers;
+note right
+docker-compose up
+or
+sail up
+Add "127.0.0.1 example.cool" to hosts file
+end note
+
+:Starting Containers;
+note right
+sail up
+sail up -d (background)
+sail start
+end note
+
+:Stopping Containers;
+note right
+sail stop
+or
+CTRL/CMD + C
+end note
+
+:Destroying Containers;
+note right
+sail down
+end note
+
+stop
+@enduml
